@@ -51,7 +51,7 @@ retraction-indexing-agreement/
 - Salami, M. O., McCumber, C., & Schneider, J. (2024, November 13). _Reassessment of the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science_ [Conference presentation]. ASIS&T MET-STI 2024: Workshop on Informetric, Scientometric and Scientific and Technical Information Research, virtual. https://hdl.handle.net/2142/124990 
 
 **Dataset**:
-- Salami, M. O. & McCumber, C. (2024). _Dataset for Reassessment of the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science_ (Version 1) [Data set]. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-8457537_V1
+- Salami, M. O. & McCumber, C. (2024). _Dataset for Reassessment of the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science_ (Version 1) [Data set]. University of Illinois at Urbana-Champaign Databank. https://doi.org/10.13012/B2IDB-8457537_V1
 
 
 ## [Tag v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0)
