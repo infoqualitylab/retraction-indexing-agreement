@@ -1,4 +1,4 @@
-# retraction-indexing-agreement
+v# retraction-indexing-agreement
 
 This is a longitudinal project that assesses the retraction indexing of publications across bibliographic databases.
 
@@ -37,8 +37,8 @@ retraction-indexing-agreement/
 5. Install the libraries as mentioned above
 6. Run the cells accordingly 
 
-**Cite code as:**
-- Salami, M.O. & McCumber, C. (2024). Retraction indexing agreement: ASIS&T MET-STI2024 Paper Final Code (1.2.0) [Python]. Zenodo. https://doi.org/10.5281/zenodo.7851297
+**Cite code v1.2.0 as:**
+- Salami, M.O. & McCumber, C. (2024). Retraction indexing agreement: ASIS&T MET-STI2024 Paper Final Code (1.2.0) [Python]. Zenodo. https://doi.org/10.5281/zenodo.7851297 (or use the more specific Zenodo v1.2.0 DOI being generating)
 
  **Code contributors:**
  - Jou Lee (ORCID: 0000-0001-8927-0370) prototyped an earlier version [v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0) pipeline for [STI2023 Paper](https://doi.org/10.55835/6441e5cae04dbe5586d06a5f).
@@ -55,7 +55,7 @@ retraction-indexing-agreement/
 
 
 ## [Tag v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0)
-**Cite code as:** <br>
+**Cite code v1.1.0 as:** <br>
 - Jou (Laura) Lee (2023). Code for Assessing the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science <br>
 
  **Code authors:**
