@@ -28,12 +28,12 @@ retraction-indexing-agreement/
 │   ├── crossref/
 │   ├── retractionwatch/
 │   ├── scopus/
-├── Reassessing_STI2023.ipynb
+├── MET-STI2024_Reassessment_of_retraction_indexing_agreement.ipynb
 ├── result
 ```
 
 3. Enter your email, API Keys and insttoken into the config.json file
-4. Run “Reassessing_STI2023.ipynb”
+4. Run “MET-STI2024_Reassessment_of_retraction_indexing_agreement”
 5. Install the libraries as mentioned above
 6. Run the cells accordingly 
 
