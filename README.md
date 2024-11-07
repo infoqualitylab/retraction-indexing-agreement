@@ -1,4 +1,4 @@
-v# retraction-indexing-agreement
+# retraction-indexing-agreement
 
 This is a longitudinal project that assesses the retraction indexing of publications across bibliographic databases.
 
