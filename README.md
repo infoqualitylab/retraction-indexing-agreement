@@ -2,7 +2,7 @@
 
 This is a longitudinal project that assesses the retraction indexing of publications across bibliographic databases.
 
-## [Tag v1.2.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.2.0) [Latest Release] 
+## [Tag v1.2.1](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.2.1) [Latest Release] 
 
 ### Description
 This Jupyter notebook is used for the reassessment of the union list of Schneider et al. (2023) after a 15-month period.
@@ -37,11 +37,11 @@ retraction-indexing-agreement/
 5. Install the libraries as mentioned above
 6. Run the cells accordingly 
 
-**Cite code v1.2.0 as:**
-- Salami, M.O. & McCumber, C. (2024). Retraction indexing agreement: ASIS&T MET-STI2024 Paper Final Code (1.2.0) [Python]. Zenodo. https://doi.org/10.5281/zenodo.7851297 (or use the more specific Zenodo v1.2.0 DOI being generating)
+**Cite code v1.2.1 as:**
+- Salami, M.O. & McCumber, C. (2024). Retraction indexing agreement: ASIS&T MET-STI2024 Paper Final Code (1.2.1) [Python]. Zenodo. https://doi.org/10.5281/zenodo.7851297 (or use the more specific Zenodo v1.2.1 DOI being generating)
 
  **Code contributors:**
- - Jou Lee (ORCID: 0000-0001-8927-0370) prototyped an earlier version [v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0) pipeline for [STI2023 Paper](https://doi.org/10.55835/6441e5cae04dbe5586d06a5f).
+ - Jou Lee (ORCID: 0000-0001-8927-0370) prototyped an earlier version [v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0) pipeline for the [STI2023 Paper](https://doi.org/10.55835/6441e5cae04dbe5586d06a5f).
 
 
 **Paper:**
