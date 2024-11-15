@@ -5,14 +5,14 @@ This is a longitudinal project that assesses the retraction indexing of publicat
 ## [Tag v1.2.1](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.2.1) [Latest Release] 
 
 ### Description
-This Jupyter notebook is used for the reassessment of the union list of Schneider et al. (2023) after a 15-month period.
+This Jupyter notebook is used for the assessment of retraction indexing agreement among data sources: BCI, BIOABS, CCC, Compendex, Crossref, GEOBASE, MEDLINE, PubMed, Retraction Watch, Scopus, and Web of Science Core. 
 
 **Setup**
 1. Follow these steps to set up the code:
 2. Install the proper version of Jupyter notebook (our version: 6.4.11)
 3. Install the standard Python libraries: ast, collections, datetime, json, os, re, time, and unicodedata 
 4. Install third-party packages: tqdm, pandas, requests, seaborn, matplotlib and numpy
-5. Create configuration file (config.json). Insert your email and API keys for Elsevier (Scopus)  and Web of Science. Institutional token (insttoken) will be required for Elsevier if you are running the code
+5. Create configuration file (config.json). Insert your email and API keys for Elsevier databases(Compendex,GEOBASE, Scopus)  and Web of Science Core. Institutional token (insttoken) will be required for Elsevier if you are running the code
 
 **Run the Code**
 1. Download “retraction-indexing-agreement” folder or clone the web URL: https://github.com/infoqualitylab/retraction-indexing-agreement.git
@@ -22,21 +22,46 @@ This Jupyter notebook is used for the reassessment of the union list of Schneide
 retraction-indexing-agreement/
 |
 ├── config.json
-├── dataset/
-│   ├── sti2023/ 
+├── data/
 │   ├── coverednotindexed/
 │   ├── crossref/
+│   ├── engineeringvillage/ 
+│   ├── journal/ 
+│   ├── pubmed/
 │   ├── retractionwatch/
 │   ├── scopus/
-├── MET-STI2024_Reassessment_of_retraction_indexing_agreement.ipynb
+│   ├── unionlist/
+│   ├── webofscience/
+├── src
+│   ├── Step1_DataCollectionFromSources_and_UnionList.ipynb
+│   ├── Step2_HandlingItemsWithoutDOI_ButWithPubMedID.ipynb 
+│   ├── Step3_DataCollection_of_Indexedasretracted_and_Coveredin.ipynb
+│   ├── Step4_DataCollection_of_RetractionYear.ipynb
+│   ├── Step5_JournalFieldClassification.ipynb
+│   ├── Step6_ DataAnalysis
+│   ├── Step7_ OtherInPaperAnalysis.ipynb
 ├── result
 ```
 
 3. Enter your email, API Keys and insttoken into the config.json file
-4. Run “MET-STI2024_Reassessment_of_retraction_indexing_agreement”
+4. Run files in the src files
 5. Install the libraries as mentioned above
 6. Run the cells accordingly 
 
+**Cite code v2.0.0 as:**
+- Salami, M.O & McCumber, C. (2024). Retraction indexing agreement: QSS Paper Final Code (2.0.0) [Python]. Zenodo. Zenodo. https://doi.org/10.5281/zenodo.7851297 (or use the more specific Zenodo v2.0.0 QSS_CODE DOI GOES HERE)
+
+ **Code contributors:**
+ - Jou Lee (ORCID: 0000-0001-8927-0370) prototyped an earlier version [v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0) pipeline for the [STI2023 Paper](https://doi.org/10.55835/6441e5cae04dbe5586d06a5f).
+
+
+**Paper:**
+- Salami, M. O., McCumber, C., & Schneider, J. (2024, November 6-13). Analyzing the Consistency of Retraction. Under review. https://doi.org/10.5281/zenodo.14004526 
+
+**Dataset**:
+- Salami, M. O. & McCumber, C. (2024). _Dataset for Analyzing the Consistency of Retraction (Version 1) [Data set]. University of Illinois at Urbana-Champaign Databank_. QSS_DATABANK DOI GOES HERE
+
+## [Tag v1.2.1](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.2.1) [Latest Release] 
 **Cite code v1.2.1 as:**
 - Salami, M.O. & McCumber, C. (2024). Retraction indexing agreement: ASIS&T MET-STI2024 Paper Final Code (1.2.1) [Python]. Zenodo. https://doi.org/10.5281/zenodo.7851297 (or use the more specific Zenodo v1.2.1 DOI being generated)
 
@@ -52,6 +77,8 @@ retraction-indexing-agreement/
 
 **Dataset**:
 - Salami, M. O. & McCumber, C. (2024). _Dataset for Reassessment of the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science_ (Version 1) [Data set]. University of Illinois at Urbana-Champaign Databank. https://doi.org/10.13012/B2IDB-8457537_V1
+
+
 
 
 ## [Tag v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0)
