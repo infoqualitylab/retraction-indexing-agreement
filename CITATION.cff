@@ -1,15 +1,16 @@
 cff-version: 1.2.1
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: Salami
-  given-names: "Malik Oyewale"
-orcid: https://orcid.org/0000-0002-2329-5660
-- family-names: McCumber
-  given-names: Corinne
-orcid: https://orcid.org/0009-0008-6580-4428
+  - family-names: Salami
+    given-names: "Malik Oyewale"
+    orcid: "https://orcid.org/0000-0002-2329-5660"
+  - family-names: McCumber
+    given-names: Corinne
+    orcid: "https://orcid.org/0009-0008-6580-4428"
 title: "infoqualitylab/retraction-indexing-agreement: ASIS&T MET-STI2024 Paper Final Code"
 version: v1.2.1
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.7851297
+    value: "10.5281/zenodo.7851297"
 date-released: 2024-11-07
+
