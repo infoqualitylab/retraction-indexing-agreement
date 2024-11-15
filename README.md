@@ -9,9 +9,9 @@ This Jupyter notebook is used for the assessment of retraction indexing agreemen
 
 **Setup**
 1. Follow these steps to set up the code:
-2. Install the proper version of Jupyter notebook (our version: 6.4.11)
-3. Install the standard Python libraries: ast, collections, datetime, json, os, re, time, and unicodedata 
-4. Install third-party packages: tqdm, pandas, requests, seaborn, matplotlib and numpy
+2. Install the proper version of Jupyter notebook (our version: 6.4.11).
+3. Install the standard Python libraries: ast, collections, datetime, json, os, re, time, and unicodedata.
+4. Install third-party packages: tqdm, pandas, requests, seaborn, matplotlib, numpy, and yake.
 5. Create configuration file (config.json). Insert your email and API keys for Elsevier databases(Compendex, GEOBASE, Scopus) and Web of Science Core. Institutional token (insttoken) will be required for Elsevier if you are running the code.
 
 **Run the Code**
