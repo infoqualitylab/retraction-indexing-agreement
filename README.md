@@ -34,7 +34,7 @@ retraction-indexing-agreement/
 │   ├── unionlist/
 │   ├── webofscience/
 ├── result
-├── src
+├── src/
 │   ├── Step1_DataCollectionFromSources_and_UnionList.ipynb
 │   ├── Step2_HandlingItemsWithoutDOI_ButWithPubMedID.ipynb 
 │   ├── Step3_DataCollection_of_Indexedasretracted_and_Coveredin.ipynb
