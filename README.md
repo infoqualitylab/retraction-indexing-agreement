@@ -12,11 +12,12 @@ This Jupyter notebook is used for the assessment of retraction indexing agreemen
 2. Install the proper version of Jupyter notebook (our version: 6.4.11).
 3. Install the standard Python libraries: ast, collections, datetime, json, os, re, time, and unicodedata.
 4. Install third-party packages: tqdm, pandas, requests, seaborn, matplotlib, numpy, and yake.
-5. Create configuration file (config.json). Insert your email and API keys for Elsevier databases(Compendex, GEOBASE, Scopus) and Web of Science Core. Institutional token (insttoken) will be required for Elsevier if you are running the code.
+5. Create configuration file (config.json). Insert your email and API keys for Elsevier databases(Compendex, GEOBASE, and Scopus) and Web of Science Core. Institutional token (insttoken) will be required for Elsevier if you are running the code.
 
 **Run the Code**
 1. Download “retraction-indexing-agreement” folder or clone the web URL: https://github.com/infoqualitylab/retraction-indexing-agreement.git
-2. Set your working directory to  “retraction-indexing-agreement” and create ‘STI2023’, ‘dataset’, and ‘result’ subfolders. Create subfolders for dataset as shown below. Add the April 2023 union list "unionlist_completed_2023-09-03-crws-ressess.csv" in the sti2023 subfolder.
+2. Set your working directory to  “retraction-indexing-agreement” and create data, result, src subfolders. Create subfolders for data as shown below.
+3. Run the codes in src subfolder accordingly.
 
 ```
 retraction-indexing-agreement/
@@ -41,10 +42,6 @@ retraction-indexing-agreement/
 │   ├── Step5_JournalFieldClassification.ipynb
 │   ├── Step6_ DataAnalysis
 │   ├── Step7_ OtherInPaperAnalysis.ipynb
-├── STI2023
-│   ├── unionlist_completed_2023-09-03-crws-ressess.csv
-│   ├── nodoi_sti_pmids.txt
-
 ```
 
 3. Enter your email, API Keys and insttoken into the config.json file
