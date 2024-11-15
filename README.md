@@ -15,9 +15,9 @@ This Jupyter notebook is used for the assessment of retraction indexing agreemen
 5. Create configuration file (config.json). Insert your email and API keys for Elsevier databases(Compendex, GEOBASE, and Scopus) and Web of Science Core. Institutional token (insttoken) will be required for Elsevier if you are running the code.
 
 **Run the Code**
-1. Download “retraction-indexing-agreement” folder or clone the web URL: https://github.com/infoqualitylab/retraction-indexing-agreement.git
+1. Download the "retraction-indexing-agreement" folder or clone the web URL: https://github.com/infoqualitylab/retraction-indexing-agreement.git
 2. Set your working directory to  “retraction-indexing-agreement” and create data, result, src subfolders. Create subfolders for data as shown below.
-3. Run the codes in src subfolder accordingly.
+3. Run the code in the src subfolder.
 
 ```
 retraction-indexing-agreement/
@@ -45,7 +45,7 @@ retraction-indexing-agreement/
 ```
 
 3. Enter your email, API Keys and insttoken into the config.json file
-4. Run files in the src files
+4. Run the files in the src files
 5. Install the libraries as mentioned above
 6. Run the cells accordingly 
 
