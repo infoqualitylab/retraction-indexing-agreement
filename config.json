@@ -1,7 +1,9 @@
 {
     "apikey": "ENTER_APIKEY_HERE",
-    "insttoken": "ENTER_ELSEVIER_INSTTOKEN_HERE",
-    "my_email": "YOUR_EMAIL_HERE",
-    "Elsevier_APIKEY":"ENTER_ELSEVIER_APIKEY_HERE",
-    "WoS_APIKEY":"YOUR_WoS_APIKEY_HERE",
+    "insttoken": "ENTER_INSTTOKEN_HERE",
+    "my_email": "ENTER_EMAIL_HERE",
+    "Elsevier_APIKEY":"ENTER_APIKEY_HERE",
+    "IEEEXplore_APIKEY":"ENTER_APIKEY_HERE",
+    "WoS_APIKEY":"ENTER_APIKEY_HERE",
+    "ADS":"ENTER_APIKEY_HERE"
 }
