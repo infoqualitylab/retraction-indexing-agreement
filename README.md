@@ -12,7 +12,7 @@ This Jupyter notebook is used for the assessment of retraction indexing agreemen
 2. Install the proper version of Jupyter notebook (our version: 6.4.11).
 3. Install the standard Python libraries: ast, collections, datetime, json, os, re, time, and unicodedata.
 4. Install third-party packages: tqdm, pandas, requests, seaborn, matplotlib, numpy, and yake.
-5. Create configuration file (config.json). Insert your email and API keys for Elsevier databases(Compendex, GEOBASE, and Scopus) and Web of Science Core. Institutional token (insttoken) will be required for Elsevier if you are running the code.
+5. Create configuration file (config.json). Insert your email and API keys for Elsevier databases (Compendex, GEOBASE, and Scopus) and Web of Science Core. Institutional token (insttoken) will be required for Elsevier if you are running the code.
 
 **Run the Code**
 1. Download the "retraction-indexing-agreement" folder or clone the web URL: https://github.com/infoqualitylab/retraction-indexing-agreement.git
@@ -50,16 +50,16 @@ retraction-indexing-agreement/
 6. Run the cells accordingly 
 
 **Cite code v2.0.0 as:**
-- Salami, M.O & McCumber, C. (2024). Retraction indexing agreement: QSS Paper Final Code (2.0.0) [Python]. Zenodo. https://doi.org/10.5281/zenodo.7851297 (or use the more specific Zenodo v2.0.0 DOI being generated)
+- Salami, M.O & McCumber, C. (2024). Retraction indexing agreement: 2024 Preprint Final Code (2.0.0) [Python]. Zenodo. https://doi.org/10.5281/zenodo.7851297 (or use the more specific Zenodo v2.0.0 DOI being generated)
 
  **Code contributors:**
  - Jou Lee (ORCID: 0000-0001-8927-0370) prototyped an earlier version [v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0) pipeline for the [STI2023 Paper](https://doi.org/10.55835/6441e5cae04dbe5586d06a5f).
 
 **Paper:**
-- Salami, M. O., McCumber, C., & Schneider, J. (2024). Analyzing the Consistency of Retraction Indexing. Under review. QSS PAPER DOI GOES HERE 
+- Salami, M. O., McCumber, C., & Schneider, J. (2024). Analyzing the consistency of retraction indexing. MetaArXiv. https://doi.org/10.31222/osf.io/gvfk5
 
 **Dataset**:
-- Salami, M. O. & McCumber, C. (2024). _Dataset for Analyzing the Consistency of Retraction_ (Version 1) [Data set]. University of Illinois at Urbana-Champaign Databank. QSS DATABANK DOI GOES HERE
+- Salami, M. O. & McCumber, C. (2024). _Redacted Dataset for Analyzing the Consistency of Retraction Indexing_ (Version 1) [Data set]. University of Illinois at Urbana-Champaign Databank. https://doi.org/10.13012/B2IDB-8114408_V1
 
 ## [Tag v1.2.1](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.2.1)
 **Cite code v1.2.1 as:**
