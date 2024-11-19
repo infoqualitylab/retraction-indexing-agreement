@@ -50,7 +50,7 @@ retraction-indexing-agreement/
 6. Run the cells accordingly 
 
 **Cite code v2.0.0 as:**
-- Salami, M.O & McCumber, C. (2024). Retraction indexing agreement: QSS Paper Final Code (2.0.0) [Python]. Zenodo. https://doi.org/10.5281/zenodo.7851297 (or use the more specific Zenodo v2.0.0 QSS_CODE DOI GOES HERE)
+- Salami, M.O & McCumber, C. (2024). Retraction indexing agreement: QSS Paper Final Code (2.0.0) [Python]. Zenodo. https://doi.org/10.5281/zenodo.7851297 (or use the more specific Zenodo v2.0.0 DOI being generated)
 
  **Code contributors:**
  - Jou Lee (ORCID: 0000-0001-8927-0370) prototyped an earlier version [v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0) pipeline for the [STI2023 Paper](https://doi.org/10.55835/6441e5cae04dbe5586d06a5f).
@@ -61,13 +61,11 @@ retraction-indexing-agreement/
 **Dataset**:
 - Salami, M. O. & McCumber, C. (2024). _Dataset for Analyzing the Consistency of Retraction_ (Version 1) [Data set]. University of Illinois at Urbana-Champaign Databank. QSS DATABANK DOI GOES HERE
 
-## [Tag v1.2.1](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.2.1) [Latest Release] 
+## [Tag v1.2.1](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.2.1)
 **Cite code v1.2.1 as:**
-- Salami, M.O. & McCumber, C. (2024). Retraction indexing agreement: ASIS&T MET-STI2024 Paper Final Code (1.2.1) [Python]. Zenodo. https://doi.org/10.5281/zenodo.7851297 (or use the more specific Zenodo v1.2.1 DOI being generated)
-
+- Salami, M.O. & McCumber, C. (2024). Retraction indexing agreement: ASIS&T MET-STI2024 Paper Final Code (1.2.1) [Python]. Zenodo. https://doi.org/10.5281/zenodo.14052823
  **Code contributors:**
  - Jou Lee (ORCID: 0000-0001-8927-0370) prototyped an earlier version [v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0) pipeline for the [STI2023 Paper](https://doi.org/10.55835/6441e5cae04dbe5586d06a5f).
-
 
 **Paper:**
 - Salami, M. O., McCumber, C., & Schneider, J. (2024, November 6-13). Reassessment of the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science. _ASIS&T MET-STI 2024: Workshop on Informetric, Scientometric and Scientific and Technical Information Research_. https://doi.org/10.5281/zenodo.14004526 
