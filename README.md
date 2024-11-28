@@ -50,12 +50,13 @@ retraction-indexing-agreement/
 6. Run the cells accordingly 
 
 **Cite code v2.0.0 as:**
-- Salami, M.O & McCumber, C. (2024). Retraction indexing agreement: 2024 Preprint Final Code (2.0.0) [Python]. Zenodo. https://doi.org/10.5281/zenodo.7851297 (or use the more specific Zenodo v2.0.0 DOI being generated)
+- Salami, M.O & McCumber, C. (2024). Retraction indexing agreement: 2024 Preprint Final Code (2.0.0) [Python]. Zenodo. https://doi.org/10.5281/zenodo.14183542
+- (part of https://doi.org/10.5281/zenodo.7851297)
 
  **Code contributors:**
  - Jou Lee (ORCID: 0000-0001-8927-0370) prototyped an earlier version [v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0) pipeline for the [STI2023 Paper](https://doi.org/10.55835/6441e5cae04dbe5586d06a5f).
 
-**Paper:**
+**Preprint:**
 - Salami, M. O., McCumber, C., & Schneider, J. (2024). Analyzing the consistency of retraction indexing. MetaArXiv. https://doi.org/10.31222/osf.io/gvfk5
 
 **Dataset**:
