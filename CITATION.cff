@@ -1,4 +1,4 @@
-cff-version: 2.0.0
+cff-version: 2.0.1
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: Salami
@@ -7,10 +7,11 @@ authors:
   - family-names: McCumber
     given-names: Corinne
     orcid: "https://orcid.org/0009-0008-6580-4428"
-title: "infoqualitylab/retraction-indexing-agreement: 2024 Preprint Final Code"
-version: v2.0.0
+title: "infoqualitylab/retraction-indexing-agreement: Fall 2025 Preprint Final Code"
+version: v2.0.1
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.14183542
-date-released: 2024-11-18
+    value: "TO BE GENERATED. PART OF https://doi.org/10.5281/zenodo.7851297" 
+date-released: 2025-10-29
+url: "https://github.com/infoqualitylab/retraction-indexing-agreement/releases/tag/v2.0.1"
 
