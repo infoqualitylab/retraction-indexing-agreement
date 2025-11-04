@@ -2,7 +2,7 @@
 
 This is a longitudinal project that assesses the retraction indexing of publications across bibliographic databases.
 
-## [Tag v2.0.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v2.0.0) [Latest Release] 
+## [Tag v2.0.1](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v2.0.1) [Latest Release] 
 
 ### Description
 This Jupyter notebook is used for the assessment of retraction indexing agreement among data sources: BCI, BIOABS, CCC, Compendex, Crossref, GEOBASE, MEDLINE, PubMed, Retraction Watch, Scopus, and Web of Science Core. 
@@ -49,6 +49,19 @@ retraction-indexing-agreement/
 5. Install the libraries as mentioned above
 6. Run the cells accordingly 
 
+**Cite code v2.0.1 as:**
+- Salami, M. O. & McCumber, C. (2025). Retraction indexing agreement: Fall 2025 Preprint Final Code (2.0.1) [Python]. Zenodo. DOI TO BE GENERATED. Part of the software for https://doi.org/10.5281/zenodo.7851297 (or use the more specific DOI for v.2.0.1 Zenodo will create)
+
+**Cite preprint as:**
+- Salami, M. O., McCumber, C., & Schneider, J. (2025). Analyzing the consistency of retraction indexing. MetaArXiv. DOI TO BE GENERATED. OLD 2024 Version 1 available at https://doi.org/10.31222/osf.io/gvfk5 
+
+**Cite data as:**
+- Salami, M. O. & McCumber, C. (2024). Redacted dataset for Analyzing the Consistency of Retraction Indexing (Version 1) [Data set]. University of Illinois Urbana-Champaign Databank. https://doi.org/10.13012/B2IDB-8114408_V1 
+
+ **Code contributors:**
+ - Jou Lee (ORCID: 0000-0001-8927-0370) prototyped an earlier version [v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0) pipeline for the [STI2023 Paper](https://doi.org/10.55835/6441e5cae04dbe5586d06a5f).
+
+## [Tag v2.0.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v2.0.0)
 **Cite code v2.0.0 as:**
 - Salami, M.O & McCumber, C. (2024). Retraction indexing agreement: 2024 Preprint Final Code (2.0.0) [Python]. Zenodo. https://doi.org/10.5281/zenodo.14183542
 - (part of https://doi.org/10.5281/zenodo.7851297)
