@@ -51,7 +51,6 @@ retraction-indexing-agreement/
 
 **Cite code v2.0.1 as:**
 - Salami, M. O. & McCumber, C. (2025). Retraction indexing agreement: Fall 2025 Preprint Final Code (2.0.1) [Python]. Zenodo. https://doi.org/10.5281/zenodo.17518295
-- Part of the software for https://doi.org/10.5281/zenodo.7851297 (or use the more specific DOI for v.2.0.1 Zenodo will create)
 
 **Cite preprint as:**
 - Salami, M. O., McCumber, C., & Schneider, J. (2025). Analyzing the consistency of retraction indexing. MetaArXiv. DOI TO BE GENERATED. OLD 2024 Version 1 available at https://doi.org/10.31222/osf.io/gvfk5 
