@@ -53,7 +53,7 @@ retraction-indexing-agreement/
 - Salami, M. O. & McCumber, C. (2025). Retraction indexing agreement: Fall 2025 Preprint Final Code (2.0.1) [Python]. Zenodo. https://doi.org/10.5281/zenodo.17518295
 
 **Cite preprint as:**
-- Salami, M. O., McCumber, C., & Schneider, J. (2025). Analyzing the consistency of retraction indexing. MetaArXiv. DOI TO BE GENERATED. OLD 2024 Version 1 available at https://doi.org/10.31222/osf.io/gvfk5 
+- Salami, M. O., McCumber, C., & Schneider, J. (2025). Analyzing the consistency of retraction indexing. MetaArXiv. https://doi.org/10.31222/osf.io/gvfk5_v2
 
 **Cite data as:**
 - Salami, M. O. & McCumber, C. (2024). Redacted dataset for Analyzing the Consistency of Retraction Indexing (Version 1) [Data set]. University of Illinois Urbana-Champaign Databank. https://doi.org/10.13012/B2IDB-8114408_V1 
