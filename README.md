@@ -2,17 +2,17 @@
 
 This is a longitudinal project that assesses the retraction indexing of publications across bibliographic databases.
 
-## [Tag v2.0.1](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v2.0.1) [Latest Release] 
+## [Tag v2.0.2](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v2.0.2) [Latest Release] 
 
 ### Description
-This Jupyter notebook is used for the assessment of retraction indexing agreement among data sources: BCI, BIOABS, CCC, Compendex, Crossref, GEOBASE, MEDLINE, PubMed, Retraction Watch, Scopus, and Web of Science Core. 
+This Jupyter notebook is used for the assessment of retraction indexing agreement among data sources: BCI, BIOABS, CCC, Compendex, Crossref, GEOBASE, MEDLINE, PubMed, Retraction Watch, Scopus, and Web of Science Core. v2.0.2 contains additional visualizations and improved filtering compared to v2.0.1
 
 **Setup**
-1. Follow these steps to set up the code:
-2. Install the proper version of Jupyter notebook (our version: 6.4.11).
-3. Install the standard Python libraries: ast, collections, datetime, json, os, re, time, and unicodedata.
-4. Install third-party packages: tqdm, pandas, requests, seaborn, matplotlib, numpy, and yake.
-5. Create configuration file (config.json). Insert your email and API keys for Elsevier databases (Compendex, GEOBASE, and Scopus) and Web of Science Core. Institutional token (insttoken) will be required for Elsevier if you are running the code.
+Follow these steps to set up the code:
+1. Install the proper version of Jupyter notebook (our version: 6.4.11).
+2. Install the standard Python libraries: ast, collections, datetime, json, os, re, time, and unicodedata.
+3. Install third-party packages: tqdm, pandas, requests, seaborn, matplotlib, numpy, and yake -- and additional files listed in requirements.txt
+4. Create configuration file (config.json). Insert your email and API keys for Elsevier databases (Compendex, GEOBASE, and Scopus) and Web of Science Core. Institutional token (insttoken) will be required for Elsevier if you are running the code.
 
 **Run the Code**
 1. Download the "retraction-indexing-agreement" folder or clone the web URL: https://github.com/infoqualitylab/retraction-indexing-agreement.git
@@ -49,6 +49,19 @@ retraction-indexing-agreement/
 5. Install the libraries as mentioned above
 6. Run the cells accordingly 
 
+**Cite code v2.0.2 as:**
+- Salami, M. O. & McCumber, C. (2026). Retraction indexing agreement: Summer 2026 Preprint Final Code (2.0.2) [Python]. Zenodo. DOI TO BE GENERATED
+
+**Cite preprint as:**
+- Salami, M. O., McCumber, C., & Schneider, J. (2026). Analyzing the consistency of retraction indexing. MetaArXiv. https://doi.org/10.31222/osf.io/gvfk5_v3 DOI TO BE GENERATED
+
+**Cite data as:**
+- Salami, M. O. & McCumber, C. (2026). Redacted dataset for Analyzing the Consistency of Retraction Indexing (Version 2) [Data set]. University of Illinois Urbana-Champaign Databank. https://doi.org/10.13012/B2IDB-8114408_V2 DOI TO BE GENERATED 
+
+ **Code contributors:**
+ - Jou Lee (ORCID: 0000-0001-8927-0370) prototyped an earlier version [v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0) pipeline for the [STI2023 Paper](https://doi.org/10.55835/6441e5cae04dbe5586d06a5f).
+
+## [Tag v2.0.1](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v2.0.1)
 **Cite code v2.0.1 as:**
 - Salami, M. O. & McCumber, C. (2025). Retraction indexing agreement: Fall 2025 Preprint Final Code (2.0.1) [Python]. Zenodo. https://doi.org/10.5281/zenodo.17518295
 
@@ -90,8 +103,6 @@ retraction-indexing-agreement/
 
 **Dataset**:
 - Salami, M. O. & McCumber, C. (2024). _Dataset for Reassessment of the agreement in retraction indexing across 4 multidisciplinary sources: Crossref, Retraction Watch, Scopus, and Web of Science_ (Version 1) [Data set]. University of Illinois at Urbana-Champaign Databank. https://doi.org/10.13012/B2IDB-8457537_V1
-
-
 
 
 ## [Tag v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0)
