@@ -11,13 +11,14 @@ This Jupyter notebook is used for the assessment of retraction indexing agreemen
 Follow these steps to set up the code:
 1. Install the proper version of Jupyter notebook (our version: 6.4.11).
 2. Install the standard Python libraries: ast, collections, datetime, json, os, re, time, and unicodedata.
-3. Install third-party packages: tqdm, pandas, requests, seaborn, matplotlib, numpy, and yake -- and additional files listed in requirements.txt
+3. Install third-party packages: tqdm, pandas, requests, seaborn, matplotlib, numpy, and yake and any packages listed in requirements.txt
 4. Create configuration file (config.json). Insert your email and API keys for Elsevier databases (Compendex, GEOBASE, and Scopus) and Web of Science Core. Institutional token (insttoken) will be required for Elsevier if you are running the code.
 
 **Run the Code**
 1. Download the "retraction-indexing-agreement" folder or clone the web URL: https://github.com/infoqualitylab/retraction-indexing-agreement.git
 2. Set your working directory to  “retraction-indexing-agreement” and create data, result, src subfolders. Create subfolders for data as shown below.
-3. Run the code in the src subfolder.
+3. Run the code in the src subfolder, starting with Step1 and continuing through Step7.
+4. Run the cells in each notebook accordingly.
 
 ```
 retraction-indexing-agreement/
@@ -43,11 +44,6 @@ retraction-indexing-agreement/
 │   ├── Step6_ DataAnalysis
 │   ├── Step7_ OtherInPaperAnalysis.ipynb
 ```
-
-3. Enter your email, API Keys and insttoken into the config.json file
-4. Run the files in the src files
-5. Install the libraries as mentioned above
-6. Run the cells accordingly 
 
 **Cite code v2.0.2 as:**
 - Salami, M. O. & McCumber, C. (2026). Retraction indexing agreement: Summer 2026 Preprint Final Code (2.0.2) [Python]. Zenodo. https://doi.org/10.5281/zenodo.21250735
