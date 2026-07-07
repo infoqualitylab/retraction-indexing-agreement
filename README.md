@@ -50,7 +50,7 @@ retraction-indexing-agreement/
 6. Run the cells accordingly 
 
 **Cite code v2.0.2 as:**
-- Salami, M. O. & McCumber, C. (2026). Retraction indexing agreement: Summer 2026 Preprint Final Code (2.0.2) [Python]. Zenodo. DOI TO BE GENERATED
+- Salami, M. O. & McCumber, C. (2026). Retraction indexing agreement: Summer 2026 Preprint Final Code (2.0.2) [Python]. Zenodo. https://doi.org/10.5281/zenodo.21250735
 
 **Cite preprint as:**
 - Salami, M. O., McCumber, C., & Schneider, J. (2026). Analyzing the consistency of retraction indexing. MetaArXiv. https://doi.org/10.31222/osf.io/gvfk5_v3 DOI TO BE GENERATED
