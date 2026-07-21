@@ -49,10 +49,10 @@ retraction-indexing-agreement/
 - Salami, M. O. & McCumber, C. (2026). Retraction indexing agreement: Summer 2026 Preprint Final Code (2.0.2) [Python]. Zenodo. https://doi.org/10.5281/zenodo.21250735
 
 **Cite preprint as:**
-- Salami, M. O., McCumber, C., & Schneider, J. (2026). Analyzing the consistency of retraction indexing. MetaArXiv. https://doi.org/10.31222/osf.io/gvfk5_v3 DOI TO BE GENERATED
+- Salami, M. O., McCumber, C., & Schneider, J. (2026). Analyzing the consistency of retraction indexing. MetaArXiv. https://doi.org/10.31222/osf.io/gvfk5_v3
 
 **Cite data as:**
-- Salami, M. O. & McCumber, C. (2026). Redacted dataset for Analyzing the Consistency of Retraction Indexing (Version 2) [Data set]. University of Illinois Urbana-Champaign Databank. https://doi.org/10.13012/B2IDB-8114408_V2 DOI TO BE GENERATED 
+- Salami, M. O. & McCumber, C. (2026). Redacted dataset for Analyzing the Consistency of Retraction Indexing (Version 2) [Data set]. University of Illinois Urbana-Champaign Databank. https://doi.org/10.13012/B2IDB-8114408_V2 
 
  **Code contributors:**
  - Jou Lee (ORCID: 0000-0001-8927-0370) prototyped an earlier version [v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0) pipeline for the [STI2023 Paper](https://doi.org/10.55835/6441e5cae04dbe5586d06a5f).
