@@ -2,10 +2,24 @@
 
 This is a longitudinal project that assesses the retraction indexing of publications across bibliographic databases.
 
-## [Tag v2.0.2](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v2.0.2) [Latest Release] 
+## [Tag v2.0.3](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v2.0.3) [Latest Release] 
+**Cite code v2.0.3 as:**
+- Salami, M. O. & McCumber, C. (2026). Retraction indexing agreement: Summer 2026 Preprint Final Code (2.0.3) [Python]. Zenodo. https://doi.org/10.5281/zenodo.21724316
+
+**Cite preprint as:**
+- Salami, M. O., McCumber, C., & Schneider, J. (2026). Analyzing the consistency of retraction indexing. MetaArXiv. https://doi.org/10.31222/osf.io/gvfk5_v4
+
+**Cite data as:**
+- Salami, M. O. & McCumber, C. (2026). Redacted dataset for Analyzing the Consistency of Retraction Indexing (Version 2) [Data set]. University of Illinois Urbana-Champaign Databank. https://doi.org/10.13012/B2IDB-8114408_V2 
+
+ **Code contributors:**
+ - Jou Lee (ORCID: 0000-0001-8927-0370) prototyped an earlier version [v1.1.0](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v1.1.0) pipeline for the [STI2023 Paper](https://doi.org/10.55835/6441e5cae04dbe5586d06a5f).
 
 ### Description
-This Jupyter notebook is used for the assessment of retraction indexing agreement among data sources: BCI, BIOABS, CCC, Compendex, Crossref, GEOBASE, MEDLINE, PubMed, Retraction Watch, Scopus, and Web of Science Core. v2.0.2 contains additional visualizations and improved filtering compared to v2.0.1
+This Jupyter notebook is used for the assessment of retraction indexing agreement among data sources: BCI, BIOABS, CCC, Compendex, Crossref, GEOBASE, MEDLINE, PubMed, Retraction Watch, Scopus, and Web of Science Core. 
+
+v2.0.3 contains additional visualizations and a correction to a visualization compared to v2.0.2. 
+v2.0.2 and later code releases remove items from Retraction Watch that are not in their "Retraction" category. Our previous code unintentionally included non-retracted items in analysis because Retraction Watch categorizes items as "Expression of concern", "Correction", or "Reinstatement" as well as "Retraction” in their publicly available Crossref data. We since added code to filter out these non-retracted items.
 
 **Setup**
 Follow these steps to set up the code:
@@ -45,6 +59,7 @@ retraction-indexing-agreement/
 │   ├── Step7_ OtherInPaperAnalysis.ipynb
 ```
 
+## [Tag v2.0.2](https://github.com/infoqualitylab/retraction-indexing-agreement/tree/v2.0.2)
 **Cite code v2.0.2 as:**
 - Salami, M. O. & McCumber, C. (2026). Retraction indexing agreement: Summer 2026 Preprint Final Code (2.0.2) [Python]. Zenodo. https://doi.org/10.5281/zenodo.21250735
 
