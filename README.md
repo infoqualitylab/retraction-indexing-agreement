@@ -19,9 +19,11 @@ This is a longitudinal project that assesses the retraction indexing of publicat
 This Jupyter notebook is used for the assessment of retraction indexing agreement among data sources: BCI, BIOABS, CCC, Compendex, Crossref, GEOBASE, MEDLINE, PubMed, Retraction Watch, Scopus, and Web of Science Core. 
 
 v2.0.3 contains additional visualizations and a correction to a visualization compared to v2.0.2. 
+
 v2.0.2 and later code releases remove items from Retraction Watch that are not in their "Retraction" category. Our previous code unintentionally included non-retracted items in analysis because Retraction Watch categorizes items as "Expression of concern", "Correction", or "Reinstatement" as well as "Retraction” in their publicly available Crossref data. We since added code to filter out these non-retracted items.
 
 **Setup**
+
 Follow these steps to set up the code:
 1. Install the proper version of Jupyter notebook (our version: 6.4.11).
 2. Install the standard Python libraries: ast, collections, datetime, json, os, re, time, and unicodedata.
