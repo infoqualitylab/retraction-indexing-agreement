@@ -18,7 +18,8 @@ This is a longitudinal project that assesses the retraction indexing of publicat
 ### Description
 This Jupyter notebook is used for the assessment of retraction indexing agreement among data sources: BCI, BIOABS, CCC, Compendex, GEOBASE, MEDLINE, PubMed, Retraction Watch, Scopus, and Web of Science Core. 
 
-v2.1.3 contains code to remove Crossref data; we identified a bug in our initial method for collecting retracted publications from Crossref. Our API call collected retraction notice identifiers instead of retracted publication identifiers. As a result, we dropped Crossref from our analysis; Steps 1-5 remain unchanged; after Steps 1-5 have been run, we run Drop_Crossref; the results are then put into Step 6 and Step 7.
+Starting with v2.1.3 we drop Crossref from our analysis, to avoid using a large number of known retraction notices.
+Our original Crossref data collection on 2024-07-03 collected DOIs for retraction notices whereas we intended to collect DOIs for retracted publications. In v2.1.3, Steps 1-5 remain unchanged; after Steps 1-5 have been run, we run Drop_Crossref; the results become the input for Step 6 and Step 7. 
 
 v2.0.3 contains additional visualizations and a correction to a visualization compared to v2.0.2. 
 
