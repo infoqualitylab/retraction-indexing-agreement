@@ -36,15 +36,13 @@ Follow these steps to set up the code:
 **Run the Code**
 1. Download the "retraction-indexing-agreement" folder or clone the web URL: https://github.com/infoqualitylab/retraction-indexing-agreement.git
 2. Set your working directory to  `retraction-indexing-agreement/core` and create data and result subfolders. Create subfolders for data as shown below.
-3. Run the code in the `retraction-indexing-agreement/drop_crossref/` subfolder, starting with Step1 and continuing through Step5.
+3. Run the code in the `retraction-indexing-agreement/core/src` subfolder, starting with Step1 and continuing through Step5.
 4. Set your working directory to  `retraction-indexing-agreement/drop_crossref/` and create result, coverednotindexed_old, and retractionyear_old subfolders.
 5. Copy the contents of `retraction-indexing-agreement/core/data/coverednotindexed` to `retraction-indexing-agreement/drop_crossref/coverednotindexed_old`. Shown below.
 6. Copy the relevant files of the subfolders of `retraction-indexing-agreement/core/data/` to `retraction-indexing-agreement/drop_crossref/retractionyear_old`. Shown below.
 7. Copy `retraction-indexing-agreement/core/data/unionlist/unionlist_completed_2024-07-09.csv` to `retraction-indexing-agreement/drop_crossref/unionlist_completed_old_2024-07-09.csv`. Shown below.
-8. Run the `Drop_Crossref.ipynb` notebook to filter out Crossref data
-9. Run the cells in the notebook accordingly.
+8. Run the `Drop_Crossref.ipynb` notebook to filter out Crossref data.
 10. Run the Step6 and Step7 notebooks to generate figures and results.
-11. Run the cells in the notebook accordingly.
 
 Final repository structure. Items surrounded by "<>" are created by running the `core` part of the project and copying data over to `drop_crossref`.
 ```
